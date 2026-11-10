@@ -12,3 +12,6 @@ Etudiante en design, j'aime les interfaces sobres.
 - **Git** : garder l'historique de mon projet
 - **Github** : le partager en ligne
 - **Markdown** : ecrire du texte en forme
+
+## Ma page
+[voir ma page en ligne][https://github.com/ambre221]
