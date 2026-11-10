@@ -7,3 +7,8 @@ Ici, je note ce que 'apprend en vibecoding.
 ## Qui je suis
 
 Etudiante en design, j'aime les interfaces sobres.
+
+## Ce que j'apprend
+- **Git** : garder l'historique de mon projet
+- **Github** : le partager en ligne
+- **Markdown** : ecrire du texte en forme
