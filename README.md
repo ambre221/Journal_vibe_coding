@@ -14,4 +14,4 @@ Etudiante en design, j'aime les interfaces sobres.
 - **Markdown** : ecrire du texte en forme
 
 ## Ma page
-[voir ma page en ligne][https://github.com/ambre221]
+[voir ma page en ligne](https://github.com/ambre221)
